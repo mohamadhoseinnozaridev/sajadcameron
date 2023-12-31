@@ -1,0 +1,46 @@
+<!-- slidshow -->
+<app-slidshow></app-slidshow>
+<!-- slidshow -->
+
+<!-- app-textbolder -->
+<div class="d-flex container gap-4">
+  <a href="/page">
+    <app-imagmain Image="../../assets/image/imagmain1.png"></app-imagmain>
+  </a>
+  <app-imagmain Image="../../assets/image/imagmain2.png"></app-imagmain>
+  <app-imagmain Image="../../assets/image/imagmain3.png"></app-imagmain>
+</div>
+<!-- app-textbolder -->
+
+<app-textbolder></app-textbolder>
+<!-- app-prouductnew -->
+<div class="container">
+  <div class="row">
+    <div class="col-lg-3" *ngFor="let item of productnew">
+      <app-prouductnew
+        Image="{{ item.image }}"
+        Title="{{ item.title }}"
+        PriceDescripiton="{{ item.price }}"
+      ></app-prouductnew>
+    </div>
+  </div>
+</div>
+<!-- app-prouductnew -->
+
+<!-- app-textproduct -->
+<app-textproduct></app-textproduct>
+<!-- app-textproduct -->
+
+<!-- app-productall -->
+<div class="container">
+  <div class="row">
+    <div class="col-md-2" *ngFor="let item of productall">
+      <app-productall
+        Image="{{ item.image }}"
+        Title="{{ item.title }}"
+        PriceDescripiton="{{ item.price }}"
+      ></app-productall>
+    </div>
+  </div>
+</div>
+<!-- app-productall -->

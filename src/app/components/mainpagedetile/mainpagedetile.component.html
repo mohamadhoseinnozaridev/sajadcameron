@@ -1,0 +1,32 @@
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col">
+            <app-Assumption></app-Assumption>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-3" *ngFor="let item of productbox">
+            <app-productbox
+              Image="{{ item.image }}"
+              Title="{{ item.title }}"
+              PriceDescripiton="{{ item.price }}"
+            >
+            </app-productbox>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <app-slidfilter></app-slidfilter>
+        <app-slidlastproduct
+          *ngFor="let item of slidlastproduct"
+          Image="{{ item.image }}"
+          Titel="{{ item.title }}"
+          discripshion="{{ item.price }}"
+        ></app-slidlastproduct>
+      </div>
+    </div>
+  </div>
+</section>
