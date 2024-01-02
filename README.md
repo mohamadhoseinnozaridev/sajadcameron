@@ -1,27 +1,45 @@
-# Cameronangular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
+<h1 align="left">sajadcameron</h1>
+<div align="center">
+  <img height="400" src=" "  />
+</div>
 
-## Development server
+<h2 align="left">page one</h2>
+<div align="center">
+  <img height="400" src="https://raw.githubusercontent.com/mohamadhoseinnozaridev/sajadcameron/main/image/pageone_header.PNG "  />
+</div>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+<h2 align="left">page one</h2>
+<div align="center">
+  <img height="400" src="https://raw.githubusercontent.com/mohamadhoseinnozaridev/sajadcameron/main/image/pageone_body.PNG "  />
+</div>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+<h2 align="left">page one</h2>
+<div align="center">
+  <img height="400" src="https://raw.githubusercontent.com/mohamadhoseinnozaridev/sajadcameron/main/image/pageone_footer.PNG "  />
+</div>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+<h2 align="left">page tow</h2>
+<div align="center">
+  <img height="400" src=" https://raw.githubusercontent.com/mohamadhoseinnozaridev/sajadcameron/main/image/pagetow_header.PNG"  />
+</div>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+<h2 align="left">page tow</h2>
+<div align="center">
+  <img height="400" src="https://raw.githubusercontent.com/mohamadhoseinnozaridev/sajadcameron/main/image/pagetow_body.PNG "  />
+</div>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+<h2 align="left">page tow</h2>
+<div align="center">
+  <img height="400" src=" https://raw.githubusercontent.com/mohamadhoseinnozaridev/sajadcameron/main/image/pagetow_footer.PNG"  />
+</div>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+
